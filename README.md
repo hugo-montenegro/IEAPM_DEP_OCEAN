@@ -1,2 +1,2 @@
 # IEAPM_DEP_OCEAN
-Laboratório para criação de ferramentas para desenvolvimento.
+Laboratório para criação de ferramentas para Oceanografia.
